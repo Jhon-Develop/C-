@@ -105,23 +105,23 @@ operador ternario).
 if-else.
 */
 
-// Console.Write("Ingrese tres números => ");
-// int num1 = Convert.ToInt32(Console.ReadLine());
-// int num2 = Convert.ToInt32(Console.ReadLine());
-// int num3 = Convert.ToInt32(Console.ReadLine());
+Console.Write("Ingrese tres números => ");
+int num1 = Convert.ToInt32(Console.ReadLine());
+int num2 = Convert.ToInt32(Console.ReadLine());
+int num3 = Convert.ToInt32(Console.ReadLine());
 
-// if (num1 > num2 && num1 > num3)
-// {
-//     Console.WriteLine(num1 + " es el mayor");
-// }
-// else if (num2 > num1 && num2 > num3)
-// {
-//     Console.WriteLine(num2 + " es el mayor");
-// }
-// else
-// {
-//     Console.WriteLine(num3 + " es el mayor");
-// }
+if (num1 > num2 && num1 > num3)
+{
+    Console.WriteLine(num1 + " es el mayor");
+}
+else if (num2 > num1 && num2 > num3)
+{
+    Console.WriteLine(num2 + " es el mayor");
+}
+else
+{
+    Console.WriteLine(num3 + " es el mayor");
+}
 
 /*
 7. Escribe un programa que pida al usuario que ingrese una contraseña. Verifica si la

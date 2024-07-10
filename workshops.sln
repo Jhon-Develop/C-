@@ -11,6 +11,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "03_workshop", "03_workshop\
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "04_workshop", "04_workshop\04_workshop.csproj", "{819016E5-8FF9-40D3-8FB6-5E6E9152BCC8}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "inventory_system", "inventory_system\inventory_system.csproj", "{93FE795B-994F-4335-B75B-34EC40016068}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "05_workshop", "05_workshop\05_workshop.csproj", "{DB2E9702-2563-476A-A746-431D5C64B35E}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -36,5 +40,13 @@ Global
 		{819016E5-8FF9-40D3-8FB6-5E6E9152BCC8}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{819016E5-8FF9-40D3-8FB6-5E6E9152BCC8}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{819016E5-8FF9-40D3-8FB6-5E6E9152BCC8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{93FE795B-994F-4335-B75B-34EC40016068}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{93FE795B-994F-4335-B75B-34EC40016068}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{93FE795B-994F-4335-B75B-34EC40016068}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{93FE795B-994F-4335-B75B-34EC40016068}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DB2E9702-2563-476A-A746-431D5C64B35E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DB2E9702-2563-476A-A746-431D5C64B35E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DB2E9702-2563-476A-A746-431D5C64B35E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DB2E9702-2563-476A-A746-431D5C64B35E}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
